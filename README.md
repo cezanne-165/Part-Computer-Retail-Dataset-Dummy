@@ -36,5 +36,16 @@ Tahapan analisis meliputi:
 Tidak ada data pribadi atau data sensitif dalam dataset ini.
 
 ---
+## ⚠️ Catatan Penting
+Dataset ini bersifat **dummy / synthetic** dan **tidak merepresentasikan data transaksi nyata**.
+Digunakan hanya untuk tujuan edukasi dan demonstrasi algoritma data mining.
 
+---
+
+## 📜 Lisensi
+Dataset dan kode pada repository ini dirilis dengan lisensi:
+
+**CC0: Public Domain**
+
+Pengguna bebas menggunakan, memodifikasi, dan mendistribusikan dataset ini tanpa batasan.
 
