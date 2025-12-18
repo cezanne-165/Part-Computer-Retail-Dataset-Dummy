@@ -6,7 +6,7 @@ Repository ini berisi **dataset dummy (synthetic)**
 Dataset dibuat **bukan dari data transaksi nyata**, melainkan data sintetis yang dirancang
 untuk keperluan pembelajaran Machine Learning
 
-https://raw.githubusercontent.com/cezanne-165/Part-Computer-Retail-Dataset-Dummy/main/computer_part_retail_dummy.csv
+https://raw.githubusercontent.com/cezanne-165/Part-Computer-Retail-Dataset-Dummy/computer_part_retail_dummy.csv
 
 
 Dataset memiliki atribut:
